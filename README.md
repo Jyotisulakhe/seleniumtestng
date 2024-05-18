@@ -5,3 +5,7 @@ Used Platforms:
 2. Maven Project
 3. Git
 4. Github
+
+Skills:
+1. Java
+2. Automation Testing
